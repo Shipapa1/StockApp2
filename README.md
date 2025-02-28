@@ -51,10 +51,6 @@ npm start on both directories
 
 
 
-```sh
-# Run the project
-npm start   # or python main.py
-```
 
 # Features
 - Market Overview: Browse and explore available stocks in the market
