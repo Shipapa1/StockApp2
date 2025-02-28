@@ -4,7 +4,21 @@ A brief description of what the project does and its purpose.
 
 # Tech Stack
 
-List of languages, frameworks, and tools used in the project.
+Frontend
+
+- React: JavaScript library for building the UI
+- TypeScript: Typed JavaScript for improved code quality
+- React Router: Handles navigation between different views
+- CSS: Custom styling for components
+- Context API: For state management across components
+
+Backend
+
+Node.js: JavaScript runtime for the server
+Express.js: Web framework for handling HTTP requests
+MongoDB: NoSQL database for storing stock data
+Mongoose: ODM library for MongoDB and Node.js
+REST API: For communication between frontend and backend
 
 # Installation & Setup
 
