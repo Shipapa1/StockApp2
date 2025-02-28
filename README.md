@@ -1,6 +1,6 @@
 # Project Title & Description
 
-A brief description of what the project does and its purpose.
+StockTracker Pro is a web application that allows users to monitor fake stock market data in real-time and manage personalized watchlists of stocks they're interested in following.
 
 # Tech Stack
 
@@ -14,28 +14,42 @@ Frontend
 
 Backend
 
-Node.js: JavaScript runtime for the server
-Express.js: Web framework for handling HTTP requests
-MongoDB: NoSQL database for storing stock data
-Mongoose: ODM library for MongoDB and Node.js
-REST API: For communication between frontend and backend
+- Node.js: JavaScript runtime for the server
+- Express.js: Web framework for handling HTTP requests
+- MongoDB: NoSQL database for storing stock data
+- Mongoose: ODM library for MongoDB and Node.js
+- REST API: For communication between frontend and backend
 
 # Installation & Setup
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/Shipapa1/StockApp2.git
 
-# Navigate into the project directory
-cd repository-name
+# Navigate into the project directory frontend
+cd frontend
 
-# Install dependencies (if applicable)
-npm install   # or pip install -r requirements.txt
+# Install dependencies
+npm install
+
+# Navigate into the project directory backend
+cd backend
+
+# Install dependencies
+npm install
+
+# Start
+npm start on both directories
+
 ```
 
 # Usage
 
-Screenshots, GIFs, or videos demonstrating the features of the project.
+![image](https://github.com/user-attachments/assets/ccdcc657-0e59-4c4f-a372-d046dc3cdb8e)
+
+![image](https://github.com/user-attachments/assets/8444dc45-f21f-4564-98d4-b52f96ae6cee)
+
+
 
 ```sh
 # Run the project
