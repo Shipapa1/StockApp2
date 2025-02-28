@@ -29,8 +29,18 @@ npm start   # or python main.py
 ```
 
 # Features
-- List the main functionalities of the project.
-- Example: Real-time updates, user authentication, etc.
+-Market Overview: Browse and explore available stocks in the market
+-Personal Watchlist: Create and manage your own collection of favorite stocks
+-Easy Stock Tracking: Add any stock to your watchlist with a single click
+-Simple Management: Remove stocks from your watchlist when no longer interested
+-Visual Feedback: Receive clear notifications for all your actions
+-Duplicate Prevention: System prevents adding the same stock twice
+-User Guidance: Helpful messages when your watchlist is empty
+-Streamlined Navigation: Quick access to both market view and personal watchlist
+-Stock Details: View company names, stock symbols, and current prices
+-Clean Interface: Organized layout with intuitive design
+-Immediate Updates: Changes to your watchlist appear instantly
+-Price Display: Clear presentation of current stock values
 
 # Contributors
 Nathan Nguyen
