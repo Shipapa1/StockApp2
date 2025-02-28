@@ -16,6 +16,6 @@
     "resolveJsonModule": true, // Add if you need to import .json files
     "allowSyntheticDefaultImports": true // Allows default imports from modules with no default export
   },
-  "include": ["src/**/*"], // Adjust this to include all your project sources
+  "include": ["cypress", "src/**/*"], // Adjust this to include all your project sources
   "exclude": ["node_modules", "**/*.spec.ts"] // Adjust as needed to exclude files you don't want to compile
 }
