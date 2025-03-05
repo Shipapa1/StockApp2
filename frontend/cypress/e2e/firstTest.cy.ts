@@ -157,7 +157,7 @@ describe('Stock App Tests', () => {
         body: []
       }).as('emptyStocks');
       
-      cy.visit('http://localhost:3000/stocks');
+      cy.visit('http://:3000/stocks');
       cy.wait('@emptyStocks');
       
       // Check empty state appears

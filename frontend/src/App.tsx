@@ -37,7 +37,7 @@ function App() {
 
   //
   // const fetchWatchlist = useCallback(() => {
-  //   fetch("http://localhost:5000/api/watchlist")
+  //   fetch("http://:5000/api/watchlist")
   //     .then((res) => {
   //       if (!res.ok) throw new Error(`Failed to fetch watchlist: ${res.status}`);
   //       return res.json();
@@ -62,7 +62,7 @@ function App() {
   //       return;
   //     }
 
-  //     fetch("http://localhost:5000/api/watchlist", {
+  //     fetch("http://:5000/api/watchlist", {
   //       method: "POST",
   //       headers: { "Content-Type": "application/json" },
   //       body: JSON.stringify(stock),
