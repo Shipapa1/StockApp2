@@ -16,7 +16,7 @@ const StocksPage: React.FC<StocksPageProps> = ({ addToWatchlist }) => {
   const { showNotification } = useNotification();
 
   const fetchStocks = useCallback(() => {
-    fetch("https://stockapp2-backend.onrender.com")
+    fetch("https://stockapp2-backend.onrender.com/api/stocks")
       .then((res) => {
         if (!res.ok) throw new Error(`Failed to fetch: ${res.status}`);
         return res.json();
