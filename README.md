@@ -26,7 +26,7 @@ Backend
 - Mongoose: ODM library for MongoDB and Node.js
 - REST API: For communication between frontend and backend
 
-Testing
+# Testing
 
 - Cypress
 ![image](https://github.com/user-attachments/assets/bc7d1dad-ebf0-45f7-9851-b77c6aaeb926)
