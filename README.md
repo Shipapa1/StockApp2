@@ -2,10 +2,13 @@
 
 StockTracker Pro is a web application that allows users to monitor fake stock market data in real-time and manage personalized watchlists of stocks they're interested in following.
 
-# Tech Stack
+
 
 # deployed link 
 https://stockapp2-frontend.onrender.com
+
+
+# Tech Stack
 
 Frontend
 
